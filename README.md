@@ -33,9 +33,5 @@ Welcome to my project!
 
 Click the image above or [here](https://www.youtube.com/watch?v=MzMfOD2SQEw) to watch the video tutorial.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=MzMfOD2SQEw">
-    <img src="https://img.youtube.com/vi/MzMfOD2SQEw/0.jpg" alt="YouTube Video" width="600" />
-  </a>
-</p>
+ 
 
