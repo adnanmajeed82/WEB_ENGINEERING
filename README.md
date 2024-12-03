@@ -19,3 +19,5 @@ for wordpress video tutorials
 ## Demo Video 2
 
 [![Watch the video](https://img.youtube.com/vi/xJIMysr3Uq8/hqdefault.jpg)](https://www.youtube.com/watch?v=xJIMysr3Uq8)
+
+[![Watch the demo](https://img.youtube.com/vi/dMDkwax9gwg/0.jpg)](https://www.youtube.com/watch?v=dMDkwax9gwg&t=186s)
