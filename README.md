@@ -9,7 +9,7 @@ download sublime text editor for coding
 # xampp server download link  (https://filehippo.com/download_xampp/)
 for wordpress video tutorials
  
- 
+# download wordpress https://wordpress.org/download/  
 
 ## Demo Video
 
